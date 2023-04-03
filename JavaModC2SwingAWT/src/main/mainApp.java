@@ -15,9 +15,11 @@ public class mainApp {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//AplicacionGrafica c = new AplicacionGrafica();
-		Ejercicio3 ej = new Ejercicio3();
+		
+		//Ejercicio1 ej1 = new Ejercicio1();
+		//Ejercicio2 ej2 = new Ejercicio2();
+		Ejercicio3 ej3 = new Ejercicio3();
+		//Ejercicio4 ej4 = new Ejercicio4();
 
 }
 }
